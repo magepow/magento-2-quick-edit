@@ -12,13 +12,13 @@ Magento 2 Quick Edit is an extension that makes editing the Magento website easi
 
 You want to edit the header, footer, logo, contents, images or products ... all of which can be edited directly from the interface page after installing our Magento 2 Quick Edit extension.
 
-![quickedit-image](https://github.com/magepow/magento-2-quick-edit/blob/master/image/quick-edit-5.jpg)
+![quickedit-image](https://github.com/magepow/magento-2-quick-edit/blob/master/image/quick-edit-1.jpg)
 
 ### Highlight Features and Use
 #### 1. Easy To Enable/Disable 
 - At “Enabled” select **Yes/No** to enable/disable the extension.
 
-![quickedit-image](https://github.com/magepow/magento-2-quick-edit/blob/master/image/quick-edit-1.jpg)
+![quickedit-image](https://github.com/magepow/magento-2-quick-edit/blob/master/image/quick-edit-5.jpg)
  
 #### 2. Show Quick Edit when show template hints
 - Template Path Hints are small cards that are displayed to help easily locate a particular .phtml file. If you want Quick edit to appear when Template Path Hints is enabled, choose **Yes**, otherwise choose **No**.
