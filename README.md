@@ -21,7 +21,7 @@ You want to edit the header, footer, logo, contents, images or products ... all 
 ![quickedit-image](https://github.com/magepow/magento-2-quick-edit/blob/master/image/quick-edit-5.jpg)
  
 #### 2. Show Quick Edit when show template hints
-- Template Path Hints are small cards that are displayed to help easily locate a particular .phtml file. If you want Quick edit to appear when Template Path Hints is enabled, choose **Yes**, otherwise choose **No**.
+- [Template Path Hints](https://docs.magento.com/user-guide/system/template-path-hints.html) are small cards that are displayed to help easily locate a particular .phtml file. If you want Quick edit to appear when Template Path Hints is enabled, choose **Yes**, otherwise choose **No**.
  
 #### 3. Enable Quick Edit with URL Parameter
 - If you want to use URL Parameter to open Quick Edit in the interface page you choose **Yes**, otherwise you choose **No**.
