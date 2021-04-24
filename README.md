@@ -8,6 +8,10 @@ Magento is an open-source e-commerce website that is widely used today. Magento 
 
 However, an undeniable downside of Magento websites is that it is difficult to use and manage. Magepow customers often complain to us that when they want to fix something on their Magento website, they spend a lot of time searching for them in the admin panel. This is why we created Magento 2 Quick Edit.
 
+See how Magento 2 Quick Edit works in the video below:
+
+[![Video tutorials on how to use Quick Edit](https://github.com/magepow/magento-2-quick-edit/blob/master/image/Video-quick-edit.jpg)](https://www.youtube.com/watch?v=D6Bvxxb8yuU&t=604s)
+
 Magento 2 Quick Edit is an extension that makes editing the Magento website easier, you won't spend a lot of time looking for a place to edit in the admin, but can be edited directly from the interface page.
 
 You want to edit the header, footer, logo, contents, images or products ... all of which can be edited directly from the interface page after installing our Magento 2 Quick Edit extension.
@@ -46,11 +50,6 @@ With the outstanding features listed above, Magento 2 Quick Edit will help you *
 ### How to download and install Magento 2 Quick Edit?
 
 Download [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) and install according to [the instructions](https://docs.alothemes.com/m2/extension/quickedit/) for use.
-
-**Video tutorials on how to use Quick Edit**
-
-[![Video tutorials on how to use Quick Edit](https://github.com/magepow/magento-2-quick-edit/blob/master/image/Video-quick-edit.jpg)](https://www.youtube.com/watch?v=D6Bvxxb8yuU&t=604s)
-
 
 **[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
 
