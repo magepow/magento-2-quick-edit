@@ -47,7 +47,9 @@ With the outstanding features listed above, Magento 2 Quick Edit will help you *
 
 Download [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) and install according to [the instructions](https://docs.alothemes.com/m2/extension/quickedit/) for use.
 
-[**Video tutorials on how to use Quick Edit**](https://www.youtube.com/watch?v=D6Bvxxb8yuU&t=604s)
+[**Video tutorials on how to use Quick Edit**]
+
+[![Video tutorials on how to use Quick Edit](https://github.com/magepow/magento-2-quick-edit/blob/master/image/Video-quick-edit.jpg)](https://www.youtube.com/watch?v=D6Bvxxb8yuU&t=604s)]
 
 
 **[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
