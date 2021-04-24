@@ -49,7 +49,7 @@ Download [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) a
 
 [**Video tutorials on how to use Quick Edit**]
 
-[![Video tutorials on how to use Quick Edit](https://github.com/magepow/magento-2-quick-edit/blob/master/image/Video-quick-edit.jpg)](https://www.youtube.com/watch?v=D6Bvxxb8yuU&t=604s)]
+[![Video tutorials on how to use Quick Edit](https://github.com/magepow/magento-2-quick-edit/blob/master/image/Video-quick-edit.jpg)](https://www.youtube.com/watch?v=D6Bvxxb8yuU&t=604s)
 
 
 **[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
