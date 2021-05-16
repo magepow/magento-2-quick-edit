@@ -1,6 +1,6 @@
 ## Magento 2 Quick Edit
 
-Edit your Magento website quickly and simply right from the interface page with Magepow's **Magento 2 Quick Edit**.
+Edit your Magento website quickly and simply right from the interface page with Magepow's [**Magento 2 Quick Edit**.](https://magepow.com/magento-2-quick-edit.htmlƯ
 
 ### Description
 
