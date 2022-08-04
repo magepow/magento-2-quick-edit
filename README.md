@@ -2,6 +2,10 @@
 
 Edit your Magento website quickly and simply right from the interface page with Magepow's [**Magento 2 Quick Edit**.](https://magepow.com/magento-2-quick-edit.html)
 
+[![Latest Stable Version](https://poser.pugx.org/magepow/quickedit/v/stable)](https://packagist.org/packages/magepow/quickedit)
+[![Total Downloads](https://poser.pugx.org/magepow/quickedit/downloads)](https://packagist.org/packages/magepow/quickedit)
+[![Daily Downloads](https://poser.pugx.org/magepow/quickedit/d/daily)](https://packagist.org/packages/magepow/quickedit)
+
 ### Description
 
 Magento is an open-source e-commerce website that is widely used today. Magento is highly appreciated in the field of e-commerce and online business. If you want to design an e-commerce website, Magento source code with outstanding features will help you a lot.
@@ -47,9 +51,25 @@ You want to edit the header, footer, logo, contents, images or products ... all 
 
 With the outstanding features listed above, Magento 2 Quick Edit will help you **optimize website management performance**, **save time** to be able to do other useful things for your online business.
 
-### How to download and install Magento 2 Quick Edit?
+## ✓ Install Magepow Quickedit via composer (recommend)
+Run the following command in Magento 2 root folder:
 
-Download [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) and install according to [the instructions](https://docs.alothemes.com/m2/extension/quickedit/) for use.
+```
+composer require magepow/quickedit
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy -f
+```
+
+## Magepow Quickedit User Guide
+[USE GUIDE](https://docs.magepow.com/quickedit)
+
+## Donation
+
+If this project help you reduce time to develop, you can give me a cup of coffee or checkout from my site :)
+
+Checkout [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) and install according to [the instructions](https://docs.alothemes.com/m2/extension/quickedit/) for use.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/alopay)
 
 **[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
 
