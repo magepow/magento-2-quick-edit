@@ -4,7 +4,7 @@
  * @Author: nguyen
  * @Date:   2020-04-25 10:43:47
  * @Last Modified by:   Alex Dong
- * @Last Modified time: 2020-05-18 15:05:48
+ * @Last Modified time: 2022-08-27 14:37:13
  */
 
 namespace Magepow\Quickedit\Helper;
@@ -145,7 +145,7 @@ class DevHelper extends \Magepow\Quickedit\Helper\Data
         );
         $remoteAddr = $this->_remoteAddress->getRemoteAddress();
         if (!empty($allowedIps) && !empty($remoteAddr)) {
-            $allowedIps = preg_split('#\s*,\s*#', $allowedIps, null, PREG_SPLIT_NO_EMPTY);
+            $allowedIps = preg_split('#\s*,\s*#', $allowedIps, -1, PREG_SPLIT_NO_EMPTY);
             if (array_search($remoteAddr, $allowedIps) === false
                 && array_search($this->_httpHeader->getHttpHost(), $allowedIps) === false
             ) {
