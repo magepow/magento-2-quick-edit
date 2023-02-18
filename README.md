@@ -73,7 +73,7 @@ Checkout [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) a
 
 **[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
 
-* [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-sales-notification.html)
+* [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-order-notification.html)
 
 * [Magento 2 Categories Extension](https://magepow.com/magento-categories-extension.html)
 
@@ -91,11 +91,11 @@ Checkout [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) a
 
 * [Magento 2 Product Slider](https://magepow.com/magento-product-slider.html)
 
-* [Magento 2 Product Banner](https://magepow.com/magento-banner-slider.html)
+* [Magento 2 Product Banner](https://magepow.com/magento-2-banner-slider.html)
 
 **[Our Magento 2 services](https://magepow.com/magento-services.html)**
 
-* [PSD to Magento 2 Theme Conversion](https://magepow.com/psd-to-magento-theme-conversion.html)
+* [PSD to Magento 2 Theme Conversion](https://alothemes.com/psd-to-magento-theme-conversion.html)
 
 * [Magento 2 Speed Optimization Service](https://magepow.com/magento-speed-optimization-service.html)
 
@@ -144,6 +144,10 @@ Checkout [Magento 2 Quick Edit](https://magepow.com/magento-2-quick-edit.html) a
 * [Flexon - Multipurpose Shopify Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/flexon-multipurpose-shopify-theme/33461048)
 
 **[Our Shopify App](https://apps.shopify.com/partners/maggicart)**
+
+* [Magepow Infinite Scroll](https://apps.shopify.com/magepow-infinite-scroll)
+
+* [Magepow Promotionbar](https://apps.shopify.com/magepow-promotionbar)
 
 * [Magepow Size Chart](https://apps.shopify.com/magepow-size-chart)
 
