@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 ## Magento 2 Quick Edit
 
 Edit your Magento website quickly and simply right from the interface page with Magepow's [**Magento 2 Quick Edit**.](https://magepow.com/magento-2-quick-edit.html)
